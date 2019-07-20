@@ -1,5 +1,7 @@
 # cerebro-ncbi-plugin
 
+<img src="gif.gif">
+
 Hi!
 This is my first ever plugin. I might update it later.
 It's based on the <a href="https://github.com/KELiON/cerebro-google">cerebro-google</a> plugin, you can find it in the <a href="https://github.com/KELiON/cerebro">cerebro</a> plugin examples.
